@@ -1,2 +1,2 @@
-#  <img src="night.gif" width="600"/> 
+#  <img src="night.gif" width="1000"/> 
 
