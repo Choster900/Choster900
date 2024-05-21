@@ -7,7 +7,7 @@
 <br/>
 <br/>
 
-<p><img align="right" height="250" width="300" src="./GIF/homie-what-homie.gif" alt="SubhadeepZilong" /></p>
+<p><img align="right" height="150" width="200" src="./GIF/homie-what-homie.gif" alt="SubhadeepZilong" /></p>
 
 
 
