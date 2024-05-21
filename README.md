@@ -7,15 +7,13 @@
 <br/>
 <br/>
 
-<p><img align="right" height="250" width="300" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/animation_500_kxa883sd.gif" alt="SubhadeepZilong" /></p>
+<p><img align="right" height="250" width="300" src="./GIF/homie-what-homie.gif" alt="SubhadeepZilong" /></p>
 
 
 
 - 🔭 I’m currently working on **ISRI-Instituto Salvadoreño de Rehabilitación Integral .**
 - 🌱 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 **Frontend 𝙿𝚛𝚘𝚐𝚛𝚊𝚖𝚖𝚒𝚗𝚐.**
 - 💬 𝙰𝚜𝚔 𝙼𝚎 𝙰𝚋𝚘𝚞𝚝 𝙰𝚗𝚢𝚝𝚑𝚒𝚗𝚐 [here](https://github.com/Choster900/Choster900/issues/1)
-- ⚡ 𝙵𝚞𝚗 𝚏𝚊𝚌𝚝: **"𝚃𝚑𝚎 𝚋𝚎𝚜𝚝 𝚠𝚊𝚢 𝚏𝚘𝚛 𝚊 𝚑𝚞𝚖𝚊𝚗 𝚝𝚘 𝚏𝚒𝚗𝚍 𝚑𝚘𝚠 𝚝𝚘 𝚐𝚎𝚝 𝚜𝚘𝚖𝚎𝚠𝚑𝚎𝚛𝚎 𝚒𝚜 𝚝𝚘 𝚕𝚎𝚊𝚟𝚎 𝚜𝚘𝚖𝚎𝚝𝚑𝚒𝚗𝚐 𝚋𝚎𝚑𝚒𝚗𝚍."**
-
 <br/>
 <br/>
 
@@ -94,12 +92,12 @@
 <!-- <br> -->
 
 
-<!-- ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=Choster900&theme=react-dark&hide_border=true&area=true)
+![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=Choster900&theme=react-dark&hide_border=true&area=true)
 
 
   
 ![𝙶𝚒𝚝𝚑𝚞𝚋 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗 𝙶𝚛𝚊𝚙𝚑](github-contribution-grid-snake.svg)
- -->
+
 <!-- <br/>
  -->
 
@@ -107,21 +105,21 @@
 
 
 #
-<!-- 
-<summary>
+
+<!-- <summary>
   <g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji>
   <strong>𝚆𝚊𝚔𝚊𝚃𝚒𝚖𝚎 𝚂𝚝𝚊𝚝𝚜 : </strong>
-</summary>
- -->
+</summary> -->
+
 
 <br>
 <br>
 
 <!--START_SECTION:waka-->
 
-<!-- ![Code Time](http://img.shields.io/badge/Code%20Time-4%2C938%20hrs%2055%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C938%20hrs%2055%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-11.3%20million%20lines%20of%20code-blue) -->
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-11.3%20million%20lines%20of%20code-blue)
 
 
 **🐱 My Github Data** 
