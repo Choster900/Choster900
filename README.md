@@ -1,4 +1,4 @@
-<h1 align="center">
+<!-- <h1 align="center">
   <img src="GIF/Earth.gif" width="24px">
   Finalmente, &lt;soy admin/&gt;!
   <img src="GIF/Hi.gif" width="40px" />
@@ -18,7 +18,7 @@
 <br/>
 
 
-
+ -->
 
 <p align="center">
   <img alt = "profile views" src="https://komarev.com/ghpvc/?username=Choster900&style=flat&color=blue"> •   
