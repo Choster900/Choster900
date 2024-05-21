@@ -91,37 +91,37 @@
   </a>
 </p>
 </details>
-<br>
+<!-- <br> -->
 
 
-![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=Choster900&theme=react-dark&hide_border=true&area=true)
+<!-- ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=Choster900&theme=react-dark&hide_border=true&area=true)
 
 
   
 ![𝙶𝚒𝚝𝚑𝚞𝚋 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗 𝙶𝚛𝚊𝚙𝚑](github-contribution-grid-snake.svg)
-
-<br/>
-
+ -->
+<!-- <br/>
+ -->
 
 
 
 
 #
-
+<!-- 
 <summary>
   <g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji>
   <strong>𝚆𝚊𝚔𝚊𝚃𝚒𝚖𝚎 𝚂𝚝𝚊𝚝𝚜 : </strong>
 </summary>
-
+ -->
 
 <br>
 <br>
 
 <!--START_SECTION:waka-->
 
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C938%20hrs%2055%20mins-blue)
+<!-- ![Code Time](http://img.shields.io/badge/Code%20Time-4%2C938%20hrs%2055%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-11.3%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-11.3%20million%20lines%20of%20code-blue) -->
 
 
 **🐱 My Github Data** 
@@ -149,21 +149,9 @@
 
 <br> <br>
 
-## 🚀 **Work Experience** :computer_mouse: :desktop_computer: 
-
-| 💼 Designation |  🏢Organization | ⏰Timeline  |
-| :-: | :-: | :-: |
-| Cloud DevOps Engineer | [Decimal Tech](https://www.linkedin.com/company/decimaltech/) | Feb 2022 - Aug 2024 |
-| Open source mentor | [GSsoC](https://gssoc.girlscript.tech/) | Mar 2022 - May 2022 |
-| Open source mentor | [SWOC](https://swoc.scriptindia.org/) | Nov 2021 - Feb 2022 |
-| Open source mentor | [WoC](https://winterofcode.com/) | Nov 2021 - Feb 2022 |
-| Web Developer Intern | [Grivaa Capital](https://www.linkedin.com/company/grivaa-capital/) | Jul 2021 - Sep 2021 |
 
 
-
-
-
- Last Updated on 16/05/2024
+ Last Updated on 21/05/2024
 <!--END_SECTION:waka-->
 
 
@@ -176,7 +164,7 @@
 
 
 
-<h1>
+<!-- <h1>
   Connect With Me
   <a target="_blank">
     <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Handshake.gif" height="25px" style="max-width:100%;">
@@ -222,4 +210,4 @@
 -----
 **Credits**: [Choster900](https://github.com/Choster900)
 
-**Last Edited on**: 20/04/2024
+**Last Edited on**: 20/04/2024 -->
