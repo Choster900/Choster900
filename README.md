@@ -10,7 +10,6 @@
 <p><img align="right" height="150" width="200" src="./GIF/homie-what-homie.gif" alt="SubhadeepZilong" /></p>
 
 
-
 - 🔭 I’m currently working on **ISRI-Instituto Salvadoreño de Rehabilitación Integral .**
 - 🌱 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 **Frontend 𝙿𝚛𝚘𝚐𝚛𝚊𝚖𝚖𝚒𝚗𝚐.**
 - 💬 𝙰𝚜𝚔 𝙼𝚎 𝙰𝚋𝚘𝚞𝚝 𝙰𝚗𝚢𝚝𝚑𝚒𝚗𝚐 [here](https://github.com/Choster900/Choster900/issues/1)
