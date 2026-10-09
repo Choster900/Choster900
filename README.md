@@ -60,15 +60,11 @@ Software Development Engineering graduate from **El Salvador**. I design and bui
 
 <img width="68%" src="https://streak-stats.demolab.com?user=Choster900&theme=tokyonight&hide_border=true&background=090E1B&ring=16C8E8&fire=8257E6&currStreakLabel=16C8E8" alt="Contribution streak" />
 
-### `// FEATURED REPOSITORIES`
-
 <a href="https://github.com/Choster900/medquick-backend"><img src="https://img.shields.io/badge/MEDQUICK-BACKEND-090E1B?style=for-the-badge&logo=github&logoColor=16C8E8" alt="Medquick backend" /></a>
 <a href="https://github.com/Choster900/BiometricApp"><img src="https://img.shields.io/badge/BIOMETRIC-APP-090E1B?style=for-the-badge&logo=github&logoColor=8257E6" alt="Biometric App" /></a>
 <a href="https://github.com/Choster900/nest-mongo-template"><img src="https://img.shields.io/badge/NEST-MONGO-TEMPLATE-090E1B?style=for-the-badge&logo=github&logoColor=16C8E8" alt="NestJS and Mongo template" /></a>
 
 <br />
-
-### `// CONTRIBUTION ACTIVITY`
 
 <!-- Tu workflow 3D debe regenerar este SVG periódicamente. -->
 <img width="95%" src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D contributions" />
