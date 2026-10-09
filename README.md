@@ -39,7 +39,7 @@ Software Development Engineering graduate from **El Salvador**. I design and bui
 
 <div align="center">
 
-### `// TECHNOLOGY STACK`
+
 
 **Backend & Languages**
 
