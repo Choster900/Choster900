@@ -55,8 +55,6 @@ Software Development Engineering graduate from **El Salvador**. I design and bui
 
 <br />
 
-### `// GITHUB AT A GLANCE`
-
 <img width="49%" src="https://github-stats-extended.vercel.app/api?username=Choster900&show_icons=true&theme=tokyonight&hide_border=true&bg_color=090E1B&title_color=16C8E8&text_color=CAD5E9&icon_color=8257E6" alt="GitHub statistics" />
 <img width="40%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Choster900&layout=compact&langs_count=7&theme=tokyonight&hide_border=true&bg_color=090E1B&title_color=16C8E8&text_color=CAD5E9" alt="Top languages" />
 
